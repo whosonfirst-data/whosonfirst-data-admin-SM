@@ -1,0 +1,377 @@
+{
+  "id": 85677199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001249,
+    "geom:area_square_m":11123778.723462,
+    "geom:bbox":"12.4391296947,43.9144845947,12.4876773911,43.9689658984",
+    "geom:latitude":43.940985,
+    "geom:longitude":12.460994,
+    "gn:population":6424,
+    "iso:country":"SM",
+    "label:eng_x_preferred_longname":[
+        "Borgo Maggiore Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":43.94595,
+    "lbl:longitude":12.456581,
+    "mps:latitude":43.94595,
+    "mps:longitude":12.456581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u063a\u0648 \u0645\u0627\u062c\u064a\u0648\u0631\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:baq_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u043e\u0440\u0433\u0430-\u041c\u0430\u0434\u0436\u043e\u0440\u044d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u09b0\u09cd\u0997 \u09ae\u09cd\u09af\u09be\u099c\u09cd\u099e\u09c1\u0987\u09b0"
+    ],
+    "name:cat_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:cat_x_variant":[
+        "Castell de Borgo Maggiore"
+    ],
+    "name:ces_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u5c14\u6208\u00b7\u9a6c\u5409\u6b27\u96f7"
+    ],
+    "name:cze_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:dan_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:deu_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:dut_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:eng_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:epo_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:eus_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u06af\u0648 \u0645\u0627\u062c\u06cc\u0648\u0631\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:fra_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:fre_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:ger_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:glg_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03cc\u03c1\u03b3\u03ba\u03bf \u039c\u03b1\u03c4\u03b6\u03b9\u03cc\u03c1\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acb\u0ab0\u0acd\u0a97\u0acb \u0aae\u0ac7\u0a97\u0ac0\u0aaf\u0acb\u0ab0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d2\u05d5 \u05de\u05d2'\u05d5\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0930\u094d\u0917\u094b \u092e\u0948\u0917\u094c\u092f\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:ind_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:ita_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb\u30b4\u30fb\u30de\u30c3\u30b8\u30e7\u30fc\u30ec"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cca\u0cb0\u0ccd\u0c97\u0cca \u0cae\u0ccd\u0caf\u0cbe\u0c97\u0cbf\u0caf\u0ccb\u0cb0\u0ccd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0440\u0433\u043e-\u041c\u0430\u0434\u0436\u043e\u0440\u0435"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ub974\uace0\ub9c8\uc870\ub808"
+    ],
+    "name:lat_x_preferred":[
+        "Burgus Maior"
+    ],
+    "name:lav_x_preferred":[
+        "Borgo Mad\u017eore"
+    ],
+    "name:lit_x_preferred":[
+        "Borgo Mad\u017eor\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u094b\u0930\u094b \u092e\u0947\u0917\u093e\u092f\u094b\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:mlt_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:nld_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:nno_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:nob_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:nor_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u0631\u06af\u0648 \u0645\u0627\u062c\u06cc\u0648\u0631\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:por_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:ron_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:rum_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:run_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0433\u043e-\u041c\u0430\u0434\u0436\u043e\u0440\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Castiddu di Borgu Magghiuri"
+    ],
+    "name:sco_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0ddc\u0dbb\u0dca\u0d9c\u0ddd \u0db8\u0dd0\u0d9c\u0dd3\u0d95\u0dbb\u0dda"
+    ],
+    "name:slk_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:slo_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:spa_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u0433\u043e \u041c\u0430\u0452\u043e\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b95\u0bcb  \u0bae\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4b\u0c30\u0c4d\u0c17\u0c4b \u0c2e\u0c3e\u0c17\u0c3f\u0c2f\u0c4b\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e2d\u0e23\u0e4c\u0e42\u0e01\u0e21\u0e31\u0e08\u0e42\u0e08\u0e40\u0e23"
+    ],
+    "name:tur_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u0433\u043e-\u041c\u0430\u0434\u0436\u043e\u0440\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0631\u062c\u0648 \u0645\u0627\u062c\u062c\u06cc\u0648\u0631\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Borgo Majore"
+    ],
+    "name:vie_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:vol_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5c14\u6208\u00b7\u9a6c\u5409\u6b27\u96f7"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SMR",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"SMR-4883",
+    "ne:adm1_code":"SMR-4883",
+    "ne:admin":"San Marino",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"SM.BM",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4883",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SM06",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"San Marino",
+    "ne:gn_a1_code":"SM.06",
+    "ne:gn_id":"3345304",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Castello di Borgo Maggiore",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SM06",
+    "ne:gns_id":"9171958",
+    "ne:gns_lang":"tir",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Borgo Maggiore",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SMR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SM-06",
+    "ne:iso_a2":"SM",
+    "ne:labelrank":"20",
+    "ne:latitude":"43.93370000000",
+    "ne:longitude":"12.43890000000",
+    "ne:mapcolor13":6,
+    "ne:mapcolor9":1,
+    "ne:name":"Borgo Maggiore",
+    "ne:name_alt":"",
+    "ne:name_len":14,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SMR",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Borgo_Maggiore",
+    "ne:woe_id":20070544,
+    "ne:woe_label":"Borgo Maggiore, SM, San Marino",
+    "ne:woe_name":"Borgo Maggiore",
+    "qs:a0":"San Marino",
+    "qs:a0_lc":"SM",
+    "qs:a1":"Borgo Maggiore",
+    "qs:a1_lc":"SMR-4883",
+    "qs:adm0":"San Marino",
+    "qs:adm0_a3":"SMR",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-12-01",
+    "statoids:area_km":"9",
+    "statoids:area_mi":"3",
+    "statoids:as_of_date":"2008-12-01",
+    "statoids:capital":"Borgo Maggiore",
+    "statoids:country":"SM",
+    "statoids:gec":"SM06",
+    "statoids:hasc":"SM.BM",
+    "statoids:iso":"06",
+    "statoids:name":"Borgo Maggiore",
+    "statoids:population":"6258",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"SM-06",
+    "wd:wordcount":198,
+    "wof:belongsto":[
+        102191581,
+        85633763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SM06",
+        "gn:id":3345304,
+        "gp:id":20070544,
+        "hasc:id":"SM.BM",
+        "iso:id":"SM-06",
+        "loc:id":"nb2009017380",
+        "qs:id":1102989,
+        "unlc:id":"SM-06",
+        "wd:id":"Q201368",
+        "wk:page":"Borgo Maggiore"
+    },
+    "wof:country":"SM",
+    "wof:geomhash":"e2e36130e5e911ffcc3429144d2b7b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633763,
+            "region_id":85677199
+        }
+    ],
+    "wof:id":85677199,
+    "wof:lang_x_official":[
+        "ita"
+    ],
+    "wof:lang_x_spoken":[
+        "ita"
+    ],
+    "wof:lastmodified":1553550493,
+    "wof:name":"Borgo Maggiore",
+    "wof:parent_id":85633763,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":6258,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sm",
+    "wof:shortcode":"BM",
+    "wof:subdivision":"SM-06",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.43912969468457,
+    43.91448459468836,
+    12.48767739110358,
+    43.96896589835757
+],
+  "geometry": {"coordinates":[[[12.469067440315,43.95467129854165],[12.46717947465791,43.94711943501397],[12.46583092775998,43.94037669962506],[12.46987656935309,43.93633105803195],[12.47823756101948,43.93336425395722],[12.48228320261259,43.93066716016136],[12.48740768172402,43.93066716016136],[12.48767739110358,43.92797006546618],[12.48551971516761,43.92446384353161],[12.47850727039909,43.91745139876309],[12.47068569749186,43.91448459468836],[12.46205499554648,43.91448459468836],[12.46151557678732,43.92068791131811],[12.45773964457382,43.92797006546618],[12.45234545698216,43.93336425395722],[12.44479359255516,43.93633105803195],[12.43912969468457,43.94064640900461],[12.43939940406412,43.94738914439353],[12.43939940406412,43.94981652880983],[12.44263591751846,43.9484679819119],[12.44749068725028,43.95116507570771],[12.44668155911157,43.9568289735783],[12.44236620813891,43.96087461517141],[12.44150765568024,43.96137928382434],[12.44439699999978,43.96350849999984],[12.44786649999978,43.96606449999984],[12.45190304036253,43.96805315778057],[12.45531226015757,43.96680822242161],[12.46259441430564,43.96896589835757],[12.46529150900082,43.96788705993993],[12.46502179962127,43.96141403393057],[12.469067440315,43.95467129854165]]],"type":"Polygon"}
+}

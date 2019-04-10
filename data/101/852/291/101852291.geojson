@@ -1,0 +1,152 @@
+{
+  "id": 101852291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.41838,43.945041,12.41838,43.945041",
+    "geom:latitude":43.945041,
+    "geom:longitude":12.41838,
+    "gn:gn_country":"SM",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":1530,
+    "gn:population":1530,
+    "iso:country":"SM",
+    "lbl:latitude":43.945041,
+    "lbl:longitude":12.41838,
+    "mps:latitude":43.945041,
+    "mps:longitude":12.41838,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Acquaviva"
+    ],
+    "name:deu_x_preferred":[
+        "Acquaviva"
+    ],
+    "name:eng_x_preferred":[
+        "Acquaviva"
+    ],
+    "name:fra_x_preferred":[
+        "Acquaviva"
+    ],
+    "name:hbs_x_preferred":[
+        "Acquaviva"
+    ],
+    "name:ind_x_preferred":[
+        "Acquaviva"
+    ],
+    "name:ita_x_preferred":[
+        "Acquaviva"
+    ],
+    "name:nld_x_preferred":[
+        "Acquaviva"
+    ],
+    "name:nor_x_preferred":[
+        "Acquaviva"
+    ],
+    "name:pol_x_preferred":[
+        "Acquaviva"
+    ],
+    "name:por_x_preferred":[
+        "Acquaviva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0432\u0430\u0432\u0438\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Acquaviva"
+    ],
+    "name:srp_x_preferred":[
+        "Akvaviva"
+    ],
+    "name:swe_x_preferred":[
+        "Acquaviva"
+    ],
+    "qs:a0":"San Marino",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"San Marino",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Acquaviva",
+    "qs:loc_alt":"Acquaviva",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "qs_pg:aaroncc":"SM",
+    "qs_pg:gn_country":"SM",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":3183500,
+    "qs_pg:gn_pop":1530,
+    "qs_pg:name":"Acquaviva",
+    "qs_pg:name_adm0":"San Marino",
+    "qs_pg:name_adm1":"Acquaviva",
+    "qs_pg:photos":462,
+    "qs_pg:photos_1k":94,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":462,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":489944,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424947,
+    "qs_pg:woe_id":532370,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":111,
+    "wof:belongsto":[
+        102191581,
+        85633763,
+        85677209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07130462-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3183500,
+        "gp:id":532370,
+        "qs:id":489944,
+        "qs_pg:id":489944
+    },
+    "wof:country":"SM",
+    "wof:geomhash":"aeb70ce4c6512e0717f04ca3c527321f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633763,
+            "locality_id":101852291,
+            "region_id":85677209
+        }
+    ],
+    "wof:id":101852291,
+    "wof:lastmodified":1544742203,
+    "wof:name":"Acquaviva",
+    "wof:parent_id":85677209,
+    "wof:placetype":"locality",
+    "wof:population":1530,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125914989
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.41838,
+    43.945041,
+    12.41838,
+    43.945041
+],
+  "geometry": {"coordinates":[12.41838,43.945041],"type":"Point"}
+}

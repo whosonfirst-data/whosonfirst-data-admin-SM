@@ -1,0 +1,79 @@
+{
+  "id": 1276458593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.50725,43.95242,12.50725,43.95242",
+    "geom:latitude":43.95242,
+    "geom:longitude":12.50725,
+    "gn:asciiname":"Torraccia",
+    "gn:country_code":"SM",
+    "gn:dem":273,
+    "gn:elevation":"250.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8199068,
+    "gn:latitude":43.95242,
+    "gn:longitude":12.50725,
+    "gn:modification_date":"2017-08-08",
+    "gn:name":"Torraccia",
+    "gn:population":150,
+    "gn:timezone":"Europe/San_Marino",
+    "iso:country":"SM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Torraccia"
+    ],
+    "name:ita_x_preferred":[
+        "Torraccia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u0440\u0430\u0447\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0440\u0440\u0430\u0447\u0456\u044f"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199068,
+        "wk:page":"Torraccia"
+    },
+    "wof:country":"SM",
+    "wof:geomhash":"9c6f5eb0f1f46a9a2872d474c25e78cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1276458593,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276458593,
+    "wof:lastmodified":1537700951,
+    "wof:name":"Torraccia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-sm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.50725,
+    43.95242,
+    12.50725,
+    43.95242
+],
+  "geometry": {"coordinates":[12.50725,43.95242],"type":"Point"}
+}

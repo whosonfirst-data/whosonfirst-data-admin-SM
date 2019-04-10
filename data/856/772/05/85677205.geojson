@@ -1,0 +1,532 @@
+{
+  "id": 85677205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000916,
+    "geom:area_square_m":8156167.369856,
+    "geom:bbox":"12.4080325,43.9039659271,12.4620549955,43.940646409",
+    "geom:latitude":43.920963,
+    "geom:longitude":12.441519,
+    "gn:population":32576,
+    "iso:country":"SM",
+    "label:eng_x_preferred_longname":[
+        "San Marino Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":43.924041,
+    "lbl:longitude":12.443769,
+    "mps:latitude":43.924041,
+    "mps:longitude":12.443769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "San Marino"
+    ],
+    "name:alb_x_preferred":[
+        "San Marino"
+    ],
+    "name:amh_x_preferred":[
+        "\u1233\u1295 \u121b\u122a\u1296"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u0627\u0631\u064a\u0646\u0648 \u0627\u0644\u0645\u062f\u064a\u0646\u0629"
+    ],
+    "name:arg_x_preferred":[
+        "Ciudad de San Marino"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576 \u0544\u0561\u0580\u056b\u0576\u0578"
+    ],
+    "name:ast_x_preferred":[
+        "Ciud\u00e1 de San Mar\u00edn"
+    ],
+    "name:aze_x_preferred":[
+        "San Marino"
+    ],
+    "name:baq_x_preferred":[
+        "San Marino"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d-\u041c\u0430\u0440\u044b\u043d\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09ae\u09be\u09b0\u09bf\u09a8\u09cb"
+    ],
+    "name:bos_x_preferred":[
+        "San Marino"
+    ],
+    "name:bre_x_preferred":[
+        "K\u00ear San Marino"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d \u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Castell de San Marino"
+    ],
+    "name:cdo_x_preferred":[
+        "San Marino Ch\u00ea"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u99ac\u529b\u8afe"
+    ],
+    "name:chu_x_preferred":[
+        "\u0421\u0430\u043d \u041c\u0430\u0440\u0438\u043d\u043e \u00b7 \u0433\u0440\u0430\u0434\u044a"
+    ],
+    "name:chv_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u06c6"
+    ],
+    "name:cze_x_preferred":[
+        "San Marino"
+    ],
+    "name:dan_x_preferred":[
+        "San Marino"
+    ],
+    "name:dut_x_preferred":[
+        "San Marino"
+    ],
+    "name:eng_x_preferred":[
+        "San Marino"
+    ],
+    "name:epo_x_preferred":[
+        "San-Marino"
+    ],
+    "name:est_x_preferred":[
+        "San Marino"
+    ],
+    "name:fin_x_preferred":[
+        "San Marino"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Marin"
+    ],
+    "name:fra_x_variant":[
+        "St-Marin",
+        "St.-Marin",
+        "San Marino"
+    ],
+    "name:fre_x_preferred":[
+        "Ville de Saint-Marin"
+    ],
+    "name:frr_x_preferred":[
+        "San Marino"
+    ],
+    "name:fry_x_preferred":[
+        "San Marino"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10db\u10d0\u10e0\u10d8\u10dc\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "San Marino"
+    ],
+    "name:gla_x_preferred":[
+        "San Marino"
+    ],
+    "name:gle_x_preferred":[
+        "Cathair San Mair\u00edne"
+    ],
+    "name:glg_x_preferred":[
+        "Cidade de San Mari\u00f1o - Citt\u00e0 di San Marino"
+    ],
+    "name:glv_x_preferred":[
+        "San Marino"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03b1\u03c1\u03af\u03bd\u03bf\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0aa8\u0aae\u0ac5\u0ab0\u0abf\u0aa8\u0acb"
+    ],
+    "name:hak_x_preferred":[
+        "San Marino S\u1e73"
+    ],
+    "name:hat_x_preferred":[
+        "Sen Maren"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05de\u05e8\u05d9\u05e0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0928\u092e\u093e\u0930\u093f\u0928\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "San Marino"
+    ],
+    "name:hun_x_preferred":[
+        "San Marino"
+    ],
+    "name:ice_x_preferred":[
+        "San Mar\u00edn\u00f3"
+    ],
+    "name:ido_x_preferred":[
+        "San Marino"
+    ],
+    "name:ile_x_preferred":[
+        "San Marino"
+    ],
+    "name:ind_x_preferred":[
+        "San Marino"
+    ],
+    "name:ita_x_preferred":[
+        "San Marino"
+    ],
+    "name:ita_x_variant":[
+        "S Marino",
+        "S. Marino",
+        "Sanmarino",
+        "Citt\u00e0 di San Marino"
+    ],
+    "name:jav_x_preferred":[
+        "San Marino"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30de\u30ea\u30ce\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbe\u0ca8\u0ccd\u0cae\u0cb0\u0cbf\u0ca8\u0cca"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ub9c8\ub9ac\ub178"
+    ],
+    "name:lat_x_preferred":[
+        "Marinum"
+    ],
+    "name:lav_x_preferred":[
+        "Sanmar\u012bno"
+    ],
+    "name:lij_x_preferred":[
+        "\u00c7itt\u00e6 de San Marin"
+    ],
+    "name:lit_x_preferred":[
+        "San Marinas"
+    ],
+    "name:lmo_x_preferred":[
+        "Cit\u00e0 di San Marin"
+    ],
+    "name:ltz_x_preferred":[
+        "San Marino"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0430\u043d \u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928 \u092e\u0930\u0940\u0928\u094b"
+    ],
+    "name:may_x_preferred":[
+        "San Marino"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:nah_x_preferred":[
+        "\u0100ltep\u0113tl San Marino"
+    ],
+    "name:nan_x_preferred":[
+        "San Marino"
+    ],
+    "name:nap_x_preferred":[
+        "Cit\u00e0 'e San Marino"
+    ],
+    "name:nno_x_preferred":[
+        "San Marino i San Marino"
+    ],
+    "name:nob_x_preferred":[
+        "San Marino"
+    ],
+    "name:oci_x_preferred":[
+        "Sant Marin"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648"
+    ],
+    "name:pms_x_preferred":[
+        "Sit\u00e0 \u00ebd San Marin"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u0631\u06cc\u0646\u0648 \u0634\u06c1\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "San Marino"
+    ],
+    "name:por_x_colloquial":[
+        "Sao Marino"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Marino"
+    ],
+    "name:que_x_preferred":[
+        "San Marino"
+    ],
+    "name:roh_x_preferred":[
+        "Citad da San Marino"
+    ],
+    "name:rum_x_preferred":[
+        "Ora\u0219ul San Marino"
+    ],
+    "name:run_x_preferred":[
+        "Ville de Saint-Marin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Ceety o San Marino"
+    ],
+    "name:sgs_x_preferred":[
+        "San Marins"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0db8\u0dd0\u0dbb\u0dd3\u0db1\u0ddd"
+    ],
+    "name:slo_x_preferred":[
+        "San Mar\u00edno"
+    ],
+    "name:slv_x_preferred":[
+        "San Marino"
+    ],
+    "name:sna_x_preferred":[
+        "City of San Marino"
+    ],
+    "name:spa_x_preferred":[
+        "San Marino"
+    ],
+    "name:srd_x_preferred":[
+        "Tzitade de Santu Marinu"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "San Marino"
+    ],
+    "name:szl_x_preferred":[
+        "San Marino"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0bae\u0bb0\u0bbf\u0ba9\u0bcb \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c36\u0c3e\u0c28\u0c4d \u0c2e\u0c3e\u0c30\u0c3f\u0c28\u0c4b"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:tgl_x_preferred":[
+        "San Marino"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e21\u0e32\u0e23\u0e35\u0e42\u0e19"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f66\u0f53\u0f0b\u0f58\u0f0b\u0f62\u0f72\u0f0b\u0f53\u0f7c\u0f0d"
+    ],
+    "name:tuk_x_preferred":[
+        "San-Marino"
+    ],
+    "name:tur_x_preferred":[
+        "San Marino"
+    ],
+    "name:udm_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Castello di San Marino"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648 \u0634\u06c1\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "San-Marino"
+    ],
+    "name:vec_x_preferred":[
+        "Sit\u00e0 de San Marin"
+    ],
+    "name:vep_x_preferred":[
+        "San Marino"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e0nh ph\u1ed1 San Marino"
+    ],
+    "name:vol_x_preferred":[
+        "San Marino"
+    ],
+    "name:vro_x_preferred":[
+        "San Marino"
+    ],
+    "name:war_x_preferred":[
+        "San Marino"
+    ],
+    "name:wel_x_preferred":[
+        "Dinas San Marino"
+    ],
+    "name:wol_x_preferred":[
+        "San Marino"
+    ],
+    "name:yor_x_preferred":[
+        "\u00ccl\u00fa San M\u00e0r\u00edn\u00f2"
+    ],
+    "name:yue_x_preferred":[
+        "\u8056\u99ac\u9023\u5974\u57ce"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SMR",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"SMR-4884",
+    "ne:adm1_code":"SMR-4884",
+    "ne:admin":"San Marino",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"SM.SM",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4884",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SM07",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"San Marino",
+    "ne:gn_a1_code":"SM.07",
+    "ne:gn_id":"3345302",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Castello di San Marino Citta",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SM07",
+    "ne:gns_id":"9171954",
+    "ne:gns_lang":"tir",
+    "ne:gns_level":"1",
+    "ne:gns_name":"San Marino Citta",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SMR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SM-07",
+    "ne:iso_a2":"SM",
+    "ne:labelrank":"20",
+    "ne:latitude":"43.92150000000",
+    "ne:longitude":"12.42430000000",
+    "ne:mapcolor13":6,
+    "ne:mapcolor9":1,
+    "ne:name":"San Marino",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"1",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SMR",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/City_of_San_Marino",
+    "ne:woe_id":20070545,
+    "ne:woe_label":"San Marino, SM, San Marino",
+    "ne:woe_name":"San Marino",
+    "qs:a0":"San Marino",
+    "qs:a0_lc":"SM",
+    "qs:a1":"San Marino",
+    "qs:a1_lc":"SMR-4884",
+    "qs:adm0":"San Marino",
+    "qs:adm0_a3":"SMR",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-12-01",
+    "statoids:area_km":"7",
+    "statoids:area_mi":"3",
+    "statoids:as_of_date":"2008-12-01",
+    "statoids:capital":"San Marino",
+    "statoids:country":"SM",
+    "statoids:gec":"SM07",
+    "statoids:hasc":"SM.SM",
+    "statoids:iso":"07",
+    "statoids:name":"San Marino",
+    "statoids:population":"4377",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191581,
+        85633763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SM07",
+        "gn:id":3345302,
+        "gp:id":20070545,
+        "hasc:id":"SM.SM",
+        "iso:id":"SM-07",
+        "qs:id":466351,
+        "wd:id":"Q1848"
+    },
+    "wof:country":"SM",
+    "wof:geomhash":"96f3f0f9086f7f13dd3f49b56d7eb7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633763,
+            "region_id":85677205
+        }
+    ],
+    "wof:id":85677205,
+    "wof:lang_x_official":[
+        "ita"
+    ],
+    "wof:lang_x_spoken":[
+        "ita"
+    ],
+    "wof:lastmodified":1553814826,
+    "wof:name":"San Marino",
+    "wof:parent_id":85633763,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":4377,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sm",
+    "wof:shortcode":"SM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.40803249999979,
+    43.90396592708589,
+    12.46205499554648,
+    43.94064640900461
+],
+  "geometry": {"coordinates":[[[12.46205499554648,43.91448459468836],[12.460436739269,43.908011568679],[12.45612138829634,43.90396592708589],[12.44749068725028,43.90396592708589],[12.44317533627762,43.90639331240152],[12.44317533627762,43.90962982495648],[12.44236620813891,43.91313604779043],[12.42995957487935,43.91718168938348],[12.42025003541571,43.91826052690186],[12.4082315,43.91818999999984],[12.40803249999979,43.92341599999986],[12.40911949999978,43.92500749999985],[12.41917119789733,43.92581239042954],[12.4286110270821,43.92823977574511],[12.43535376337039,43.93120657892052],[12.43939940406412,43.93498251113402],[12.43912969468457,43.94064640900461],[12.44479359255516,43.93633105803195],[12.45234545698216,43.93336425395722],[12.45773964457382,43.92797006546618],[12.46151557678732,43.92068791131811],[12.46205499554648,43.91448459468836]]],"type":"Polygon"}
+}

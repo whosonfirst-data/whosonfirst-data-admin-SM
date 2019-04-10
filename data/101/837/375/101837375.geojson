@@ -1,0 +1,215 @@
+{
+  "id": 101837375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000136,
+    "geom:area_square_m":1211721.666879,
+    "geom:bbox":"12.4412027048,43.937220173,12.4596863469,43.952507679",
+    "geom:latitude":43.943442,
+    "geom:longitude":12.451606,
+    "gn:population":6424,
+    "iso:country":"SM",
+    "lbl:latitude":43.942974,
+    "lbl:longitude":12.453006,
+    "mps:latitude":43.942974,
+    "mps:longitude":12.453006,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u043e\u0440\u0433\u0430-\u041c\u0430\u0434\u0436\u043e\u0440\u044d"
+    ],
+    "name:cat_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:ces_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:dan_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:deu_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:eng_x_historical":[
+        "Mercatale"
+    ],
+    "name:eng_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:eng_x_variant":[
+        "Mercatale"
+    ],
+    "name:epo_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:eus_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u06af\u0648 \u0645\u0627\u062c\u06cc\u0648\u0631\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:fra_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:glg_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d2\u05d5 \u05de\u05d2'\u05d5\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:ind_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:ita_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb\u30b4\u30fb\u30de\u30c3\u30b8\u30e7\u30fc\u30ec"
+    ],
+    "name:kaz_x_historical":[
+        "\u041c\u0435\u0440\u043a\u0430\u0442\u0430\u043b\u0435"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0440\u0433\u043e-\u041c\u0430\u0434\u0436\u043e\u0440\u0435"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0435\u0440\u043a\u0430\u0442\u0430\u043b\u0435"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ub974\uace0\ub9c8\uc870\ub808"
+    ],
+    "name:lat_x_preferred":[
+        "Burgus Maior"
+    ],
+    "name:lit_x_preferred":[
+        "Borgo Mad\u017eor\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:nld_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:nno_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:nor_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:pol_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:por_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:ron_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:run_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:rus_x_historical":[
+        "\u041c\u0435\u0440\u043a\u0430\u0442\u0430\u043b\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0433\u043e-\u041c\u0430\u0434\u0436\u043e\u0440\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0435\u0440\u043a\u0430\u0442\u0430\u043b\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:slk_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:spa_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u0433\u043e \u041c\u0430\u0452\u043e\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u0433\u043e-\u041c\u0430\u0434\u0436\u043e\u0440\u0435"
+    ],
+    "name:vec_x_preferred":[
+        "Borgo Majore"
+    ],
+    "name:vol_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5c14\u6208\u00b7\u9a6c\u5409\u6b27\u96f7"
+    ],
+    "qs:a0":"San Marino",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"San Marino",
+    "qs:la":"San Marino",
+    "qs:la_lc":"*SM999999998",
+    "qs:level":"locality",
+    "qs:loc":"Borgomaggiore",
+    "qs:loc_alt":"Borgomaggiore",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633763,
+        85677199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"07130534-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3181793,
+        "gp:id":20104938,
+        "qs:id":896453
+    },
+    "wof:country":"SM",
+    "wof:geomhash":"5e4debb81b252a63b40371fd1e1d1c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633763,
+            "locality_id":101837375,
+            "region_id":85677199
+        }
+    ],
+    "wof:id":101837375,
+    "wof:lastmodified":1543974624,
+    "wof:name":"Borgomaggiore",
+    "wof:parent_id":85677199,
+    "wof:placetype":"locality",
+    "wof:population":6424,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.44120270482074,
+    43.93722017301485,
+    12.45968634688722,
+    43.95250767896437
+],
+  "geometry": {"coordinates":[[[12.45484641360144,43.95248777651699],[12.45553782351868,43.95066643972166],[12.45517469556324,43.95067507624924],[12.45502091554891,43.94706893170644],[12.45692066283976,43.94702371479872],[12.45761207361284,43.94520237574847],[12.45742854451231,43.94520675063558],[12.45731311934475,43.94250213475198],[12.45864921149348,43.9424703099557],[12.45968634688722,43.93973825071373],[12.45968198042203,43.93973835479795],[12.4596434745302,43.93883681400092],[12.45591712322641,43.93892552733359],[12.4558444003697,43.93722017301485],[12.44474116766719,43.93926523942491],[12.44485283130837,43.94189550032877],[12.44361064341717,43.94192490870796],[12.44364890174876,43.9428264545175],[12.44240669330742,43.94285584848978],[12.44244493381348,43.94375739418456],[12.44120270482074,43.94378677374948],[12.44127915176477,43.94558986426102],[12.44500595181523,43.94550167754323],[12.44492938838442,43.94369859023209],[12.44865606169679,43.94361027224807],[12.44884777341917,43.94811797765152],[12.4476054530457,43.9481474345929],[12.44764378074615,43.94904897426426],[12.44888612053774,43.94901951678816],[12.44892446924752,43.949921055277],[12.45265154002755,43.9498325915896],[12.45268994858617,43.950734127825],[12.45393232264672,43.95070460950848],[12.45400918338743,43.95250767896437],[12.45484641360144,43.95248777651699]]],"type":"Polygon"}
+}
