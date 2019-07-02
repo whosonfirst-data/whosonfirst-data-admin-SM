@@ -29,13 +29,7 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u064a\u062c\u0627\u0631\u062f\u064a\u0646\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0576\u057f\u0565\u057b\u0561\u0580\u0564\u056b\u0576\u0578"
-    ],
     "name:ast_x_preferred":[
-        "Montegiardino"
-    ],
-    "name:baq_x_preferred":[
         "Montegiardino"
     ],
     "name:bel_x_variant":[
@@ -50,20 +44,14 @@
     "name:ces_x_preferred":[
         "Montegiardino"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u6cf0\u5409\u963f\u8fea\u8bfa"
-    ],
-    "name:cze_x_preferred":[
-        "Montegiardino"
-    ],
     "name:dan_x_preferred":[
         "Montegiardino"
     ],
     "name:deu_x_preferred":[
         "Montegiardino"
     ],
-    "name:dut_x_preferred":[
-        "Montegiardino"
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c4\u03b5\u03c4\u03b6\u03b1\u03c1\u03bd\u03c4\u03af\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Montegiardino"
@@ -83,17 +71,8 @@
     "name:fra_x_preferred":[
         "Montegiardino"
     ],
-    "name:fre_x_preferred":[
-        "Montegiardino"
-    ],
-    "name:ger_x_preferred":[
-        "Montegiardino"
-    ],
     "name:glg_x_preferred":[
         "Montegiardino"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03bd\u03c4\u03b5\u03c4\u03b6\u03b1\u03c1\u03bd\u03c4\u03af\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0acd\u0a9f\u0ac7\u0a97\u0abf\u0a86\u0ab0\u0acd\u0aa1\u0abf\u0aa8\u0acb"
@@ -143,7 +122,7 @@
     "name:mar_x_preferred":[
         "\u092e\u0949\u0928\u094d\u091f\u0947\u0917\u0940\u0930\u094d\u0921\u093f\u0928\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Montegiardino"
     ],
     "name:nap_x_preferred":[
@@ -161,9 +140,6 @@
     "name:nor_x_preferred":[
         "Montegiardino"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0646\u062a\u0647\u200c\u062c\u06cc\u0627\u0631\u062f\u06cc\u0646\u0648"
-    ],
     "name:pol_x_preferred":[
         "Montegiardino"
     ],
@@ -171,9 +147,6 @@
         "Montegiardino"
     ],
     "name:ron_x_preferred":[
-        "Montegiardino"
-    ],
-    "name:rum_x_preferred":[
         "Montegiardino"
     ],
     "name:run_x_preferred":[
@@ -192,9 +165,6 @@
         "\u0db8\u0ddc\u0db1\u0dca\u0da7\u0dd9\u0d9c\u0dcf\u0dbb\u0dca\u0da9\u0dd2\u0db1\u0ddd"
     ],
     "name:slk_x_preferred":[
-        "Montegiardino"
-    ],
-    "name:slo_x_preferred":[
         "Montegiardino"
     ],
     "name:spa_x_preferred":[
@@ -357,7 +327,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1553550493,
+    "wof:lastmodified":1561843675,
     "wof:name":"Montegiardino",
     "wof:parent_id":85633763,
     "wof:placetype":"region",
