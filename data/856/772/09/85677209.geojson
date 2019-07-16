@@ -121,6 +121,9 @@
     "name:msa_x_preferred":[
         "Acquaviva"
     ],
+    "name:nap_x_preferred":[
+        "Acquaviva"
+    ],
     "name:nld_x_preferred":[
         "Acquaviva"
     ],
@@ -181,6 +184,9 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e2d\u0e04\u0e04\u0e31\u0e27\u0e27\u0e34\u0e27\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e04\u0e04\u0e27\u0e32\u0e27\u0e35\u0e27\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Acquaviva"
     ],
@@ -200,6 +206,9 @@
         "Acquaviva"
     ],
     "name:vol_x_preferred":[
+        "Acquaviva"
+    ],
+    "name:war_x_preferred":[
         "Acquaviva"
     ],
     "name:zho_x_preferred":[
@@ -324,7 +333,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1561843675,
+    "wof:lastmodified":1563263704,
     "wof:name":"Acquaviva",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

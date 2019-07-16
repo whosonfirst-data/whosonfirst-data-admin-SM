@@ -112,11 +112,17 @@
     "name:lat_x_preferred":[
         "Faetanum"
     ],
+    "name:lat_x_variant":[
+        "Fagetanum"
+    ],
     "name:lav_x_preferred":[
         "Feat\u0101no"
     ],
     "name:lit_x_preferred":[
         "Faetanas"
+    ],
+    "name:lmo_x_preferred":[
+        "Faetano"
     ],
     "name:ltz_x_preferred":[
         "Faetano"
@@ -125,6 +131,9 @@
         "\u092b\u093e\u091f\u0945\u0928\u094b"
     ],
     "name:msa_x_preferred":[
+        "Faetano"
+    ],
+    "name:nap_x_preferred":[
         "Faetano"
     ],
     "name:nld_x_preferred":[
@@ -187,6 +196,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1f\u0e22\u0e4c\u0e19\u0e32\u0e42\u0e15"
     ],
+    "name:tha_x_variant":[
+        "\u0e1f\u0e32\u0e40\u0e2d\u0e15\u0e32\u0e42\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Faetano"
     ],
@@ -203,6 +215,9 @@
         "Faetano"
     ],
     "name:vol_x_preferred":[
+        "Faetano"
+    ],
+    "name:war_x_preferred":[
         "Faetano"
     ],
     "name:zho_x_preferred":[
@@ -328,7 +343,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1561843675,
+    "wof:lastmodified":1563263703,
     "wof:name":"Faetano",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

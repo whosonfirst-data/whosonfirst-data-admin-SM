@@ -23,16 +23,25 @@
     "name:ara_x_variant":[
         "\u0633\u064a\u0631\u0627\u0641\u0627\u0644\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0631\u0627\u0641\u0627\u0644\u0647"
+    ],
     "name:ast_x_preferred":[
         "Serravalle"
     ],
     "name:bel_x_variant":[
         "\u0421\u044d\u0440\u0430\u0432\u0430\u043b\u044c\u043b\u0435"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09b0\u200d\u09cd\u09af\u09be\u09ad\u09be\u09b2\u09cd\u09b2\u09cd\u09af\u09c7"
+    ],
     "name:bos_x_preferred":[
         "Serravalle"
     ],
     "name:cat_x_preferred":[
+        "Serravalle"
+    ],
+    "name:ceb_x_preferred":[
         "Serravalle"
     ],
     "name:ces_x_preferred":[
@@ -43,6 +52,9 @@
     ],
     "name:deu_x_preferred":[
         "Serravalle"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03c1\u03c1\u03b1\u03b2\u03ac\u03bb\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "Serravalle"
@@ -65,8 +77,14 @@
     "name:glg_x_preferred":[
         "Serravalle"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0ab0\u0abe\u0ab5\u0ab2\u0acd\u0ab2\u0ac7"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05e8\u05d0\u05d5\u05d5\u05d0\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0930\u093e\u0935\u0947\u0932\u0947"
     ],
     "name:hun_x_preferred":[
         "Serravalle"
@@ -83,19 +101,46 @@
     "name:jpn_x_preferred":[
         "\u30bb\u30e9\u30f4\u30a1\u30c3\u30ec"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc6\u0cb0\u0cbe\u0cb5\u0cbe\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
     "name:kor_x_preferred":[
         "\uc138\ub77c\ubc1c\ub808"
     ],
     "name:lat_x_preferred":[
         "Olnanum"
     ],
+    "name:lav_x_preferred":[
+        "Serravalle"
+    ],
     "name:lit_x_preferred":[
         "Seraval\u0117"
+    ],
+    "name:lmo_x_preferred":[
+        "Serravalle"
+    ],
+    "name:ltz_x_preferred":[
+        "Serravalle"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0930\u094d\u0930\u093e\u0935\u093e\u0932\u094d\u0932\u0947"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u0440\u0430\u0432\u0430\u043b\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Serravalle"
+    ],
+    "name:nah_x_preferred":[
+        "Serravalle"
     ],
     "name:nld_x_preferred":[
         "Serravalle"
     ],
     "name:nno_x_preferred":[
+        "Serravalle"
+    ],
+    "name:nob_x_preferred":[
         "Serravalle"
     ],
     "name:nor_x_preferred":[
@@ -122,7 +167,13 @@
     "name:sco_x_preferred":[
         "Serravalle"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dda\u0dbb\u0dcf\u0dc0\u0dbd\u0dda"
+    ],
     "name:slk_x_preferred":[
+        "Serravalle"
+    ],
+    "name:slv_x_preferred":[
         "Serravalle"
     ],
     "name:spa_x_preferred":[
@@ -134,11 +185,23 @@
     "name:swe_x_preferred":[
         "Serravalle"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc7\u0bb0\u0bcd\u0bb1\u0bb5\u0bb2\u0bcd\u0bb2\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c30\u0c4d\u0c30\u0c3e\u0c35\u0c32\u0c4d\u0c32\u0c46"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e0b\u0e23\u0e4c\u0e23\u0e32\u0e27\u0e31\u0e25\u0e40\u0e25"
+    ],
     "name:tur_x_preferred":[
         "Serravalle"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0440\u0430\u0432\u0430\u043b\u043b\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0631\u0627\u0648\u0627\u0644\u06cc"
     ],
     "name:vec_x_preferred":[
         "Serava\u0142e"
@@ -147,6 +210,9 @@
         "Serravalle"
     ],
     "name:vol_x_preferred":[
+        "Serravalle"
+    ],
+    "name:war_x_preferred":[
         "Serravalle"
     ],
     "name:zho_x_preferred":[
@@ -198,7 +264,7 @@
         }
     ],
     "wof:id":101837379,
-    "wof:lastmodified":1543974626,
+    "wof:lastmodified":1563263711,
     "wof:name":"Serravalle",
     "wof:parent_id":85677211,
     "wof:placetype":"locality",

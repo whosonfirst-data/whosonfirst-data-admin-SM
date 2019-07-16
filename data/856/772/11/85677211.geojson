@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0631\u0627\u0641\u0627\u0644\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0631\u0627\u0641\u0627\u0644\u0647"
+    ],
     "name:ast_x_preferred":[
         "Serravalle"
     ],
@@ -41,6 +44,9 @@
         "Serravalle"
     ],
     "name:cat_x_preferred":[
+        "Serravalle"
+    ],
+    "name:ceb_x_preferred":[
         "Serravalle"
     ],
     "name:ces_x_preferred":[
@@ -111,6 +117,9 @@
     ],
     "name:lat_x_preferred":[
         "Serravallis"
+    ],
+    "name:lat_x_variant":[
+        "Olnanum"
     ],
     "name:lav_x_preferred":[
         "Serravalle"
@@ -184,6 +193,9 @@
     "name:srp_x_preferred":[
         "Seravale"
     ],
+    "name:srp_x_variant":[
+        "\u0421\u0435\u0440\u0430\u0432\u0430\u043b\u0435"
+    ],
     "name:swe_x_preferred":[
         "Serravalle"
     ],
@@ -195,6 +207,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e23\u0e32\u0e27\u0e31\u0e25\u0e40\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e0b\u0e23\u0e4c\u0e23\u0e32\u0e27\u0e31\u0e25\u0e40\u0e25"
     ],
     "name:tur_x_preferred":[
         "Serravalle"
@@ -215,6 +230,9 @@
         "Serravalle"
     ],
     "name:vol_x_preferred":[
+        "Serravalle"
+    ],
+    "name:war_x_preferred":[
         "Serravalle"
     ],
     "name:zho_x_preferred":[
@@ -338,7 +356,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1561843675,
+    "wof:lastmodified":1563263702,
     "wof:name":"Serravalle",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Fatick"
     ],
+    "name:ceb_x_preferred":[
+        "Fatick"
+    ],
     "name:dan_x_preferred":[
         "Fatick"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0556\u0561\u057f\u056b\u056f"
+    ],
+    "name:ile_x_preferred":[
+        "Fatick"
     ],
     "name:ind_x_preferred":[
         "Fatick"
@@ -259,7 +265,7 @@
         }
     ],
     "wof:id":1141906047,
-    "wof:lastmodified":1561843675,
+    "wof:lastmodified":1563263719,
     "wof:name":"Fatick",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",
