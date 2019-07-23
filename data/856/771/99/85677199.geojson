@@ -112,8 +112,14 @@
     "name:lav_x_preferred":[
         "Borgo Mad\u017eore"
     ],
+    "name:lij_x_preferred":[
+        "Borgo Maggiore"
+    ],
     "name:lit_x_preferred":[
         "Borgo Mad\u017eor\u0117"
+    ],
+    "name:lmo_x_preferred":[
+        "Borgo Maggiore"
     ],
     "name:ltz_x_preferred":[
         "Borgo Maggiore"
@@ -125,6 +131,9 @@
         "Borgo Maggiore"
     ],
     "name:msa_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:nap_x_preferred":[
         "Borgo Maggiore"
     ],
     "name:nld_x_preferred":[
@@ -175,6 +184,9 @@
     "name:swe_x_preferred":[
         "Borgo Maggiore"
     ],
+    "name:szl_x_preferred":[
+        "Borgo Maggiore"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bcb\u0bb0\u0bcd\u0b95\u0bcb  \u0bae\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bc7"
     ],
@@ -200,6 +212,9 @@
         "Borgo Maggiore"
     ],
     "name:vol_x_preferred":[
+        "Borgo Maggiore"
+    ],
+    "name:war_x_preferred":[
         "Borgo Maggiore"
     ],
     "name:zho_x_preferred":[
@@ -325,7 +340,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1561843675,
+    "wof:lastmodified":1563263697,
     "wof:name":"Borgo Maggiore",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

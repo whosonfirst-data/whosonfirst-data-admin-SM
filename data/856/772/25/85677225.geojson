@@ -185,6 +185,9 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e2d\u0e19\u0e08\u0e32\u0e23\u0e4c\u0e14\u0e34\u0e42\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e2d\u0e19\u0e40\u0e15\u0e08\u0e32\u0e23\u0e4c\u0e14\u0e35\u0e42\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Montegiardino"
     ],
@@ -201,6 +204,9 @@
         "Montegiardino"
     ],
     "name:vol_x_preferred":[
+        "Montegiardino"
+    ],
+    "name:war_x_preferred":[
         "Montegiardino"
     ],
     "name:zho_x_preferred":[
@@ -327,7 +333,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1561843675,
+    "wof:lastmodified":1563263707,
     "wof:name":"Montegiardino",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

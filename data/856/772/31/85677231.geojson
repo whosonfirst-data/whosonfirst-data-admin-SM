@@ -131,6 +131,9 @@
     "name:msa_x_preferred":[
         "Chiesanuova"
     ],
+    "name:nap_x_preferred":[
+        "Chiesanuova"
+    ],
     "name:nld_x_preferred":[
         "Chiesanuova"
     ],
@@ -188,6 +191,9 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e34\u0e40\u0e2d\u0e0b\u0e32\u0e19\u0e39\u0e42\u0e2d\u0e27\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e35\u0e40\u0e22\u0e0b\u0e32\u0e19\u0e39\u0e42\u0e27\u0e27\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Chiesanuova"
     ],
@@ -210,6 +216,9 @@
         "Chiesanuova"
     ],
     "name:vol_x_preferred":[
+        "Chiesanuova"
+    ],
+    "name:war_x_preferred":[
         "Chiesanuova"
     ],
     "name:zho_x_preferred":[
@@ -335,7 +344,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1561843675,
+    "wof:lastmodified":1563263705,
     "wof:name":"Chiesanuova",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

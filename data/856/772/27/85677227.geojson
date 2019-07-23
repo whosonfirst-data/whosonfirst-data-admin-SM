@@ -181,6 +181,9 @@
     "name:tha_x_preferred":[
         "\u0e1f\u0e34\u0e42\u0e2d\u0e40\u0e23\u0e19\u0e15\u0e34\u0e42\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e1f\u0e35\u0e42\u0e22\u0e40\u0e23\u0e19\u0e15\u0e35\u0e42\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Fiorentino"
     ],
@@ -197,6 +200,9 @@
         "Fiorentino"
     ],
     "name:vol_x_preferred":[
+        "Fiorentino"
+    ],
+    "name:war_x_preferred":[
         "Fiorentino"
     ],
     "name:zho_x_preferred":[
@@ -321,7 +327,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1561843675,
+    "wof:lastmodified":1563263702,
     "wof:name":"Fiorentino",
     "wof:parent_id":85633763,
     "wof:placetype":"region",
