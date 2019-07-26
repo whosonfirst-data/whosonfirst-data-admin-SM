@@ -25,6 +25,18 @@
     "iso:country":"SM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gualdicciolo"
+    ],
+    "name:ltz_x_preferred":[
+        "Gualdicciolo"
+    ],
+    "name:spa_x_preferred":[
+        "Gualdicciolo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0432\u0430\u043b\u044c\u0434\u0456\u0447\u0447\u0456\u043e\u043b\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1309919907,
-    "wof:lastmodified":1537573702,
+    "wof:lastmodified":1564107373,
     "wof:name":"Gualdicciolo",
     "wof:parent_id":85677209,
     "wof:placetype":"locality",
