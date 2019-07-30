@@ -35,6 +35,9 @@
     "name:lit_x_preferred":[
         "Fal\u010dianas"
     ],
+    "name:ltz_x_preferred":[
+        "Falciano"
+    ],
     "name:pol_x_preferred":[
         "Falciano"
     ],
@@ -42,6 +45,9 @@
         "\u0424\u0430\u043b\u044c\u0447\u0430\u043d\u043e"
     ],
     "name:sco_x_preferred":[
+        "Falciano"
+    ],
+    "name:spa_x_preferred":[
         "Falciano"
     ],
     "name:ukr_x_preferred":[
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1259777967,
-    "wof:lastmodified":1537700951,
+    "wof:lastmodified":1564107375,
     "wof:name":"Falciano",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

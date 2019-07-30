@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u062a\u0627\u0646\u0648"
+    ],
     "name:ast_x_preferred":[
         "Faetano"
     ],
@@ -79,6 +82,15 @@
     "name:lit_x_preferred":[
         "Faetanas"
     ],
+    "name:lmo_x_preferred":[
+        "Faetano"
+    ],
+    "name:ltz_x_preferred":[
+        "Faetano"
+    ],
+    "name:nap_x_preferred":[
+        "Faetano"
+    ],
     "name:nld_x_preferred":[
         "Faetano"
     ],
@@ -121,6 +133,9 @@
     "name:szl_x_preferred":[
         "Faetano"
     ],
+    "name:tur_x_preferred":[
+        "Faetano"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0435\u0442\u0430\u043d\u043e"
     ],
@@ -133,8 +148,14 @@
     "name:vol_x_preferred":[
         "Faetano"
     ],
+    "name:war_x_preferred":[
+        "Faetano"
+    ],
     "name:zho_x_preferred":[
         "\u6cd5\u5c14\u9f50\u4e9a\u8bfa"
+    ],
+    "name:zho_x_variant":[
+        "\u6cd5\u57c3\u5854\u8bfa"
     ],
     "qs:gn_country":"SM",
     "qs:gn_fcode":"PPLA",
@@ -179,7 +200,7 @@
         }
     ],
     "wof:id":421204215,
-    "wof:lastmodified":1543974631,
+    "wof:lastmodified":1564107373,
     "wof:name":"Faetano",
     "wof:parent_id":85677221,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"SM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Cerbaiola"
+    ],
+    "name:ltz_x_preferred":[
+        "Cerbaiola"
+    ],
+    "name:nld_x_preferred":[
+        "Cerbaiola"
+    ],
+    "name:scn_x_preferred":[
+        "Cerbaiula"
+    ],
+    "name:spa_x_preferred":[
+        "Cerbaiola"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u0431\u0430\u0439\u043e\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1293879207,
-    "wof:lastmodified":1537573702,
+    "wof:lastmodified":1564107370,
     "wof:name":"Cerbaiola",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

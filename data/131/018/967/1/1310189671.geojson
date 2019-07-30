@@ -25,20 +25,83 @@
     "iso:country":"SM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Dogana"
+    ],
+    "name:aze_x_preferred":[
+        "Doqana"
+    ],
+    "name:ces_x_preferred":[
+        "Dogana"
+    ],
+    "name:deu_x_preferred":[
+        "Dogana"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03bf\u03b3\u03ba\u03ac\u03bd\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Dogana"
+    ],
+    "name:hif_x_preferred":[
+        "Dogana"
+    ],
+    "name:ind_x_preferred":[
+        "Dogana"
+    ],
+    "name:ita_x_preferred":[
+        "Dogana"
+    ],
+    "name:lit_x_preferred":[
+        "Dogana"
+    ],
+    "name:lmo_x_preferred":[
+        "Dogana"
+    ],
+    "name:nno_x_preferred":[
+        "Dogana"
+    ],
+    "name:nor_x_preferred":[
+        "Dogana"
+    ],
+    "name:pol_x_preferred":[
+        "Dogana"
+    ],
+    "name:por_x_preferred":[
+        "Dogana"
+    ],
+    "name:ron_x_preferred":[
+        "Dogana"
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u0433\u0430\u043d\u0430"
     ],
+    "name:sco_x_preferred":[
+        "Dogana"
+    ],
+    "name:spa_x_preferred":[
+        "Dogana"
+    ],
+    "name:swe_x_preferred":[
+        "Dogana"
+    ],
     "name:tha_x_preferred":[
         "\u0e42\u0e14\u0e01\u0e32\u0e19\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Dogana"
     ],
     "name:uig_x_preferred":[
         "\u062f\u0648\u06af\u0627\u0646\u0627"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0433\u0430\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u06af\u0627\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Dogana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +123,7 @@
         }
     ],
     "wof:id":1310189671,
-    "wof:lastmodified":1537700951,
+    "wof:lastmodified":1564107371,
     "wof:name":"Dogana",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
