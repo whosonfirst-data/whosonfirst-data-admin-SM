@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AC"
+    ],
     "lbl:latitude":43.942579,
     "lbl:longitude":12.424806,
     "mps:latitude":43.942579,
@@ -333,7 +336,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1563263704,
+    "wof:lastmodified":1565736637,
     "wof:name":"Acquaviva",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

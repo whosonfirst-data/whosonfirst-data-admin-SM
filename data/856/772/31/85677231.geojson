@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":43.909485,
     "lbl:longitude":12.420936,
     "mps:latitude":43.909485,
@@ -344,7 +347,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1563263705,
+    "wof:lastmodified":1565736637,
     "wof:name":"Chiesanuova",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

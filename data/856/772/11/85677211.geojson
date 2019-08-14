@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SE"
+    ],
     "lbl:latitude":43.969798,
     "lbl:longitude":12.485868,
     "mps:latitude":43.969798,
@@ -356,7 +359,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1563263702,
+    "wof:lastmodified":1565736637,
     "wof:name":"Serravalle",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

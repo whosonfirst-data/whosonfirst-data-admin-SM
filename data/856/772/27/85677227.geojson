@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FI"
+    ],
     "lbl:latitude":43.906491,
     "lbl:longitude":12.474691,
     "mps:latitude":43.906491,
@@ -327,7 +330,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1563263702,
+    "wof:lastmodified":1565736637,
     "wof:name":"Fiorentino",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SM"
+    ],
     "lbl:latitude":43.924041,
     "lbl:longitude":12.443769,
     "mps:latitude":43.924041,
@@ -521,7 +524,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1563263701,
+    "wof:lastmodified":1565736637,
     "wof:name":"San Marino",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

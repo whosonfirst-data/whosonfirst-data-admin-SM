@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DO"
+    ],
     "lbl:latitude":43.944788,
     "lbl:longitude":12.477616,
     "mps:latitude":43.944788,
@@ -323,7 +326,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1563263706,
+    "wof:lastmodified":1565736638,
     "wof:name":"Domagnano",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

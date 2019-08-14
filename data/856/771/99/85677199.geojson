@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BM"
+    ],
     "lbl:latitude":43.94595,
     "lbl:longitude":12.456581,
     "mps:latitude":43.94595,
@@ -340,7 +343,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1563263697,
+    "wof:lastmodified":1565736637,
     "wof:name":"Borgo Maggiore",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

@@ -14,6 +14,9 @@
     "itu:country_code":[
         "378"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SM"
+    ],
     "lbl:latitude":43.934066,
     "lbl:longitude":12.462139,
     "mps:latitude":43.934066,
@@ -1060,7 +1063,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1563263695,
+    "wof:lastmodified":1565736637,
     "wof:name":"San Marino",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

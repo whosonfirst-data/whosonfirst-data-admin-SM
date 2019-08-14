@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FA"
+    ],
     "lbl:latitude":43.931826,
     "lbl:longitude":12.49797,
     "mps:latitude":43.931826,
@@ -343,7 +346,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1563263703,
+    "wof:lastmodified":1565736637,
     "wof:name":"Faetano",
     "wof:parent_id":85633763,
     "wof:placetype":"region",
