@@ -11,10 +11,14 @@
     "geom:longitude":12.48201,
     "gn:country":"SM",
     "gn:fcode":"PPLA",
-    "gn:pop":910,
+    "gn:population":910,
     "iso:country":"SM",
+    "lbl:bbox":"12.46201,43.88878,12.50201,43.92878",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Montegiardino"
     ],
@@ -159,7 +163,7 @@
     "wof:concordances":{
         "gn:id":3172906,
         "gp:id":20104941,
-        "qs:id":94855
+        "qs_pg:id":94855
     },
     "wof:country":"SM",
     "wof:created":1469051794,
@@ -173,7 +177,7 @@
         }
     ],
     "wof:id":890429105,
-    "wof:lastmodified":1543974636,
+    "wof:lastmodified":1566647918,
     "wof:name":"Monte Giardino",
     "wof:parent_id":85677227,
     "wof:placetype":"locality",
