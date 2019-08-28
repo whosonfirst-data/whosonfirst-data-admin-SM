@@ -13,10 +13,13 @@
     "iso:country":"SM",
     "lbl:latitude":43.948232,
     "lbl:longitude":12.463002,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.948232,
     "mps:longitude":12.463002,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0645\u0627\u0646\u064a\u0627\u0646\u0648"
     ],
@@ -222,7 +225,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -235,7 +238,6 @@
         "gn:id":3177542,
         "gp:id":20104937,
         "loc:id":"nb2010027369",
-        "qs:id":238687,
         "qs_pg:id":238687,
         "wd:id":"Q202202",
         "wk:page":"Domagnano"
@@ -251,7 +253,7 @@
         }
     ],
     "wof:id":101837377,
-    "wof:lastmodified":1563263712,
+    "wof:lastmodified":1566647916,
     "wof:name":"Domagnano",
     "wof:parent_id":85677199,
     "wof:placetype":"locality",

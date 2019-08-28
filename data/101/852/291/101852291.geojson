@@ -9,17 +9,20 @@
     "geom:bbox":"12.41838,43.945041,12.41838,43.945041",
     "geom:latitude":43.945041,
     "geom:longitude":12.41838,
-    "gn:gn_country":"SM",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":1530,
+    "gn:country":"SM",
+    "gn:fcode":"PPLA",
     "gn:population":1530,
     "iso:country":"SM",
+    "lbl:bbox":"12.39838,43.925041,12.43838,43.965041",
     "lbl:latitude":43.945041,
     "lbl:longitude":12.41838,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.945041,
     "mps:longitude":12.41838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Acquaviva"
     ],
@@ -105,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":111,
     "wof:belongsto":[
@@ -118,7 +121,6 @@
         "fct:id":"07130462-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3183500,
         "gp:id":532370,
-        "qs:id":489944,
         "qs_pg:id":489944
     },
     "wof:country":"SM",
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101852291,
-    "wof:lastmodified":1564107372,
+    "wof:lastmodified":1566647917,
     "wof:name":"Acquaviva",
     "wof:parent_id":85677209,
     "wof:placetype":"locality",

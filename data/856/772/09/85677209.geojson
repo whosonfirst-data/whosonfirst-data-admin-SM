@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":43.942579,
     "lbl:longitude":12.424806,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.942579,
     "mps:longitude":12.424806,
     "mz:hierarchy_label":1,
@@ -196,7 +197,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u043a\u0443\u0430\u0432\u0456\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Castello di Acquaviva"
     ],
     "name:urd_x_preferred":[
@@ -287,9 +288,9 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-12-01",
+    "src:population_date":"2008-12-01",
     "statoids:area_km":"5",
     "statoids:area_mi":"2",
     "statoids:as_of_date":"2008-12-01",
@@ -315,7 +316,7 @@
         "gp:id":20070543,
         "hasc:id":"SM.AC",
         "iso:id":"SM-01",
-        "qs:id":1102988,
+        "qs_pg:id":1102988,
         "unlc:id":"SM-01",
         "wd:id":"Q206363",
         "wk:page":"Acquaviva (San Marino)"
@@ -336,11 +337,10 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1565736637,
+    "wof:lastmodified":1566647915,
     "wof:name":"Acquaviva",
     "wof:parent_id":85633763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":1996,
     "wof:population_rank":3,

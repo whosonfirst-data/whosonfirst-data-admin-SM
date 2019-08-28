@@ -14,10 +14,13 @@
     "iso:country":"SM",
     "lbl:latitude":43.988467,
     "lbl:longitude":12.516031,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.988467,
     "mps:longitude":12.516031,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cerasolo"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85685675,
@@ -68,7 +71,7 @@
         "fct:id":"12b20b7e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3179125,
         "gp:id":713750,
-        "qs:id":389364,
+        "qs_pg:id":389364,
         "wd:id":"Q2164981"
     },
     "wof:country":"SM",
@@ -87,7 +90,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1563263712,
+    "wof:lastmodified":1566647916,
     "wof:name":"Cerasolo",
     "wof:parent_id":404472531,
     "wof:placetype":"locality",

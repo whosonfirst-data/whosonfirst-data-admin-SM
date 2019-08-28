@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":43.934066,
     "lbl:longitude":12.462139,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":43.934066,
     "mps:longitude":12.462139,
     "mz:hierarchy_label":1,
@@ -839,9 +841,7 @@
     ],
     "name:und_x_variant":[
         "Republika San Marino",
-        "\u00c1gios Mar\u00ednos"
-    ],
-    "name:unk_x_variant":[
+        "\u00c1gios Mar\u00ednos",
         "Most Serene Republic of San Marino"
     ],
     "name:urd_x_preferred":[
@@ -1001,7 +1001,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"378",
     "statoids:ds":"RSM",
@@ -1042,7 +1042,7 @@
         "m49:code":"674",
         "marc:id":"sm",
         "mzb:id":"san-marino",
-        "qs:id":94816,
+        "qs_pg:id":94816,
         "uncrt:id":"RSM",
         "wd:id":"Q238",
         "wk:page":"San Marino"
@@ -1063,7 +1063,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1565736637,
+    "wof:lastmodified":1566647914,
     "wof:name":"San Marino",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -10,10 +10,14 @@
     "geom:latitude":14.660383,
     "geom:longitude":-16.240001,
     "iso:country":"SM",
+    "lbl:bbox":"-16.2600012629,14.6403829132,-16.2200012629,14.6803829132",
     "lbl:latitude":14.660383,
     "lbl:longitude":-16.240001,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0438\u0443\u0440\u0431\u0435\u043b"
     ],
@@ -205,7 +209,7 @@
         }
     ],
     "wof:id":1141907081,
-    "wof:lastmodified":1561843675,
+    "wof:lastmodified":1566647918,
     "wof:name":"Diourbel",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",

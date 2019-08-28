@@ -10,8 +10,12 @@
     "geom:latitude":43.94021,
     "geom:longitude":12.45622,
     "iso:country":"SM",
+    "lbl:bbox":"12.43622,43.92021,12.47622,43.96021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Valdragone"
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":8199071,
         "gp:id":29353422,
-        "qs:id":988248,
+        "qs_pg:id":988248,
         "wd:id":"Q1132070",
         "wk:page":"Valdragone"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421183983,
-    "wof:lastmodified":1563263716,
+    "wof:lastmodified":1566647917,
     "wof:name":"Valdragone",
     "wof:parent_id":85677199,
     "wof:placetype":"locality",

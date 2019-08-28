@@ -23,8 +23,12 @@
     "gn:population":150,
     "gn:timezone":"Europe/San_Marino",
     "iso:country":"SM",
+    "lbl:bbox":"12.48725,43.93242,12.52725,43.97242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Torraccia"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1276458593,
-    "wof:lastmodified":1564107370,
+    "wof:lastmodified":1566647915,
     "wof:name":"Torraccia",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
