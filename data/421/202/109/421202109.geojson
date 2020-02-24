@@ -56,6 +56,9 @@
     },
     "wof:country":"SM",
     "wof:created":1459010105,
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"fe9d219080c30270cb0acc75d2c5033e",
     "wof:hierarchy":[
         {
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421202109,
-    "wof:lastmodified":1527716209,
+    "wof:lastmodified":1582314024,
     "wof:name":"San Marino",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -243,6 +243,9 @@
         "wk:page":"Domagnano"
     },
     "wof:country":"SM",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae496f89b3bd30ed94c3069d79d89d58",
     "wof:hierarchy":[
         {
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":101837377,
-    "wof:lastmodified":1566647916,
+    "wof:lastmodified":1582314024,
     "wof:name":"Domagnano",
     "wof:parent_id":85677199,
     "wof:placetype":"locality",

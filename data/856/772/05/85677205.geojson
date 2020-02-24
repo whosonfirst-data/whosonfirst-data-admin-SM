@@ -510,6 +510,9 @@
         "wd:id":"Q1848"
     },
     "wof:country":"SM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"96f3f0f9086f7f13dd3f49b56d7eb7d7",
     "wof:hierarchy":[
         {
@@ -525,7 +528,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1566647914,
+    "wof:lastmodified":1582314024,
     "wof:name":"San Marino",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

@@ -322,6 +322,9 @@
         "wk:page":"Montegiardino"
     },
     "wof:country":"SM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fbd1c9cc35e48878e3760eb8811e1076",
     "wof:hierarchy":[
         {
@@ -337,7 +340,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1566647915,
+    "wof:lastmodified":1582314024,
     "wof:name":"Montegiardino",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

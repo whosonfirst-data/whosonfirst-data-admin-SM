@@ -345,6 +345,9 @@
         "wd:id":"Q185412"
     },
     "wof:country":"SM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d89feae1bf9676d30bb3a498235296c",
     "wof:hierarchy":[
         {
@@ -360,7 +363,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1566647914,
+    "wof:lastmodified":1582314024,
     "wof:name":"Serravalle",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

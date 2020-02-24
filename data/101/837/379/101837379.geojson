@@ -256,6 +256,9 @@
         "wk:page":"Serravalle (San Marino)"
     },
     "wof:country":"SM",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bb1775928af4340f66e78f5e9809a6a4",
     "wof:hierarchy":[
         {
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":101837379,
-    "wof:lastmodified":1566647916,
+    "wof:lastmodified":1582314024,
     "wof:name":"Serravalle",
     "wof:parent_id":85677211,
     "wof:placetype":"locality",
