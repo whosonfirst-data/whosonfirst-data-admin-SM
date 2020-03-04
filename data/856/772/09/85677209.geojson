@@ -322,6 +322,9 @@
         "wk:page":"Acquaviva (San Marino)"
     },
     "wof:country":"SM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d66b658d9eea6ab8933167dfbf5ba384",
     "wof:hierarchy":[
         {
@@ -337,7 +340,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1566647915,
+    "wof:lastmodified":1582314024,
     "wof:name":"Acquaviva",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

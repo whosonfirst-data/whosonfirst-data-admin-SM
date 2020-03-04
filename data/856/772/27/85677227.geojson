@@ -316,6 +316,9 @@
         "wk:page":"Fiorentino"
     },
     "wof:country":"SM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5e3f0c71205754055a0ea29733ae9e55",
     "wof:hierarchy":[
         {
@@ -331,7 +334,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1566647914,
+    "wof:lastmodified":1582314024,
     "wof:name":"Fiorentino",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

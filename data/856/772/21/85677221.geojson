@@ -332,6 +332,9 @@
         "wk:page":"Faetano"
     },
     "wof:country":"SM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e2510d46463212c508731350e10b2dbe",
     "wof:hierarchy":[
         {
@@ -347,7 +350,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1566647915,
+    "wof:lastmodified":1582314024,
     "wof:name":"Faetano",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

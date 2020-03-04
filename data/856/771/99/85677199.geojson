@@ -329,6 +329,9 @@
         "wk:page":"Borgo Maggiore"
     },
     "wof:country":"SM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e2e36130e5e911ffcc3429144d2b7b5f",
     "wof:hierarchy":[
         {
@@ -344,7 +347,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1566647914,
+    "wof:lastmodified":1582314024,
     "wof:name":"Borgo Maggiore",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

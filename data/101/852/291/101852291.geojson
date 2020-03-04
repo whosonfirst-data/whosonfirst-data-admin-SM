@@ -124,6 +124,9 @@
         "qs_pg:id":489944
     },
     "wof:country":"SM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aeb70ce4c6512e0717f04ca3c527321f",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101852291,
-    "wof:lastmodified":1566647917,
+    "wof:lastmodified":1582314024,
     "wof:name":"Acquaviva",
     "wof:parent_id":85677209,
     "wof:placetype":"locality",
