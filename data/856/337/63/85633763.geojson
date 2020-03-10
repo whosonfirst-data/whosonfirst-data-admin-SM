@@ -1029,9 +1029,7 @@
         101837381
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            674
-        ],
+        "digitalenvoy:country_code":674,
         "fifa:id":"SMR",
         "fips:code":"SM",
         "gaul:id":"213",
@@ -1066,7 +1064,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1583529223,
+    "wof:lastmodified":1583797432,
     "wof:name":"San Marino",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
