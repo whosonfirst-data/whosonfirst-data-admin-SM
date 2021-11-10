@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-16.2400012629,14.6603829132,-16.2400012629,14.6603829132",
+    "geom:bbox":"-16.240001,14.660383,-16.240001,14.660383",
     "geom:latitude":14.660383,
     "geom:longitude":-16.240001,
     "iso:country":"SM",
@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09a6\u09bf\u0993\u0989\u09b0\u09ac\u09c7\u09b2"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0438\u0443\u0440\u0431\u0435\u043b"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:deu_x_preferred":[
         "Diourbel"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03bf\u03c5\u03c1\u03bc\u03c0\u03ad\u03bb"
     ],
     "name:eng_x_preferred":[
         "Diourbel"
@@ -48,7 +54,13 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d9\u05d5\u05e8\u05d1\u05dc"
     ],
+    "name:hin_x_preferred":[
+        "\u0921\u093f\u092f\u094b\u0930\u092c\u0947\u0932"
+    ],
     "name:hun_x_preferred":[
+        "Diourbel"
+    ],
+    "name:ind_x_preferred":[
         "Diourbel"
     ],
     "name:ita_x_preferred":[
@@ -69,6 +81,9 @@
     "name:pol_x_preferred":[
         "Diourbel"
     ],
+    "name:por_x_preferred":[
+        "Diourbel"
+    ],
     "name:ron_x_preferred":[
         "Diourbel"
     ],
@@ -81,8 +96,14 @@
     "name:swe_x_preferred":[
         "Diourbel"
     ],
+    "name:tur_x_preferred":[
+        "Diourbel"
+    ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0648\u0631\u0628\u06cc\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Diourbel"
     ],
     "name:wol_x_preferred":[
         "Jurbel"
@@ -198,7 +219,7 @@
     },
     "wof:country":"SM",
     "wof:created":1499130679,
-    "wof:geomhash":"7748b1d9403bf95fd0f2bb714143b503",
+    "wof:geomhash":"3f88ec275b474f1322c820b1881864b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -209,7 +230,7 @@
         }
     ],
     "wof:id":1141907081,
-    "wof:lastmodified":1566647918,
+    "wof:lastmodified":1636494835,
     "wof:name":"Diourbel",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",
@@ -219,10 +240,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.24000126287279,
-    14.66038291316096,
-    -16.24000126287279,
-    14.66038291316096
+    -16.240001,
+    14.660383,
+    -16.240001,
+    14.660383
 ],
-  "geometry": {"coordinates":[-16.24000126287279,14.66038291316096],"type":"Point"}
+  "geometry": {"coordinates":[-16.240001,14.660383],"type":"Point"}
 }

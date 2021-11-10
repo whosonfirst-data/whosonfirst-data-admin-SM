@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-16.4159995209,14.3440021019,-16.4159995209,14.3440021019",
+    "geom:bbox":"-16.416,14.344002,-16.416,14.344002",
     "geom:latitude":14.344002,
     "geom:longitude":-16.416,
     "iso:country":"SM",
@@ -62,6 +62,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092b\u091f\u0940\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Fatick"
     ],
     "name:hye_x_preferred":[
         "\u0556\u0561\u057f\u056b\u056f"
@@ -258,7 +261,7 @@
     },
     "wof:country":"SM",
     "wof:created":1499130533,
-    "wof:geomhash":"59918529b73987812417b25ff53ffa94",
+    "wof:geomhash":"f669f5865fed7c687ecc08d0735fc37f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":1141906047,
-    "wof:lastmodified":1566647919,
+    "wof:lastmodified":1636494835,
     "wof:name":"Fatick",
     "wof:parent_id":421187935,
     "wof:placetype":"locality",
@@ -279,10 +282,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.41599952085846,
-    14.34400210193331,
-    -16.41599952085846,
-    14.34400210193331
+    -16.416,
+    14.344002,
+    -16.416,
+    14.344002
 ],
-  "geometry": {"coordinates":[-16.41599952085846,14.34400210193331],"type":"Point"}
+  "geometry": {"coordinates":[-16.416,14.344002],"type":"Point"}
 }
