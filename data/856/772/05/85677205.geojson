@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000916,
     "geom:area_square_m":8156167.369857,
-    "geom:bbox":"12.4080325,43.9039659271,12.4620549955,43.940646409",
+    "geom:bbox":"12.408032,43.903966,12.462055,43.940646",
     "geom:latitude":43.920963,
     "geom:longitude":12.441519,
     "gn:population":32576,
@@ -32,6 +32,9 @@
     "name:afr_x_preferred":[
         "San Marino"
     ],
+    "name:aka_x_preferred":[
+        "San Marino"
+    ],
     "name:amh_x_preferred":[
         "\u1233\u1295 \u121b\u122a\u1296"
     ],
@@ -44,17 +47,35 @@
     "name:arg_x_preferred":[
         "Ciudad de San Marino"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u0645\u062f\u064a\u0646\u0629 \u062f \u0633\u0627\u0646 \u0645\u0627\u0631\u064a\u0646\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u0627\u0631\u064a\u0646\u0648"
+    ],
     "name:ast_x_preferred":[
         "Ciud\u00e1 de San Mar\u00edn"
     ],
     "name:ava_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
     ],
+    "name:avk_x_preferred":[
+        "San Marino"
+    ],
     "name:aze_x_preferred":[
+        "San Marino"
+    ],
+    "name:aze_x_variant":[
+        "San-Marino"
+    ],
+    "name:ban_x_preferred":[
         "San Marino"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d-\u041c\u0430\u0440\u044b\u043d\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u044b\u043d\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ae\u09be\u09b0\u09bf\u09a8\u09cb"
@@ -99,6 +120,9 @@
         "San Marino"
     ],
     "name:deu_x_preferred":[
+        "San Marino"
+    ],
+    "name:diq_x_preferred":[
         "San Marino"
     ],
     "name:ell_x_preferred":[
@@ -166,6 +190,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u0928\u092e\u093e\u0930\u093f\u0928\u094b"
+    ],
+    "name:hin_x_variant":[
+        "\u0938\u0948\u0928 \u092e\u093e\u0930\u093f\u0928\u094b \u0928\u0917\u0930"
     ],
     "name:hrv_x_preferred":[
         "San Marino"
@@ -242,6 +269,9 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u092e\u0930\u0940\u0928\u094b"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043d \u041c\u0430\u0440\u0438\u043d\u043e"
     ],
@@ -302,6 +332,9 @@
     "name:ron_x_preferred":[
         "Ora\u0219ul San Marino"
     ],
+    "name:ron_x_variant":[
+        "San Marino"
+    ],
     "name:run_x_preferred":[
         "Ville de Saint-Marin"
     ],
@@ -321,6 +354,15 @@
         "San Mar\u00edno"
     ],
     "name:slv_x_preferred":[
+        "San Marino"
+    ],
+    "name:sme_x_preferred":[
+        "San Marino"
+    ],
+    "name:smn_x_preferred":[
+        "San Marino"
+    ],
+    "name:sms_x_preferred":[
         "San Marino"
     ],
     "name:sna_x_preferred":[
@@ -389,6 +431,9 @@
     "name:vie_x_preferred":[
         "Th\u00e0nh ph\u1ed1 San Marino"
     ],
+    "name:vls_x_preferred":[
+        "San Marino"
+    ],
     "name:vol_x_preferred":[
         "San Marino"
     ],
@@ -400,6 +445,12 @@
     ],
     "name:wol_x_preferred":[
         "San Marino"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u9a6c\u529b\u8bfa"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10db\u10d0\u10e0\u10d8\u10dc\u10dd"
     ],
     "name:yor_x_preferred":[
         "\u00ccl\u00fa San M\u00e0r\u00edn\u00f2"
@@ -513,7 +564,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"96f3f0f9086f7f13dd3f49b56d7eb7d7",
+    "wof:geomhash":"114b20b478ed84bcb3e0b77f2674f6ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -528,7 +579,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1582314024,
+    "wof:lastmodified":1690865844,
     "wof:name":"San Marino",
     "wof:parent_id":85633763,
     "wof:placetype":"region",
@@ -542,10 +593,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.40803249999979,
-    43.90396592708589,
-    12.46205499554648,
-    43.94064640900461
+    12.408032,
+    43.903966,
+    12.462055,
+    43.940646
 ],
-  "geometry": {"coordinates":[[[12.46205499554648,43.91448459468836],[12.460436739269,43.908011568679],[12.45612138829634,43.90396592708589],[12.44749068725028,43.90396592708589],[12.44317533627762,43.90639331240152],[12.44317533627762,43.90962982495648],[12.44236620813891,43.91313604779043],[12.42995957487935,43.91718168938348],[12.42025003541571,43.91826052690186],[12.4082315,43.91818999999984],[12.40803249999979,43.92341599999986],[12.40911949999978,43.92500749999985],[12.41917119789733,43.92581239042954],[12.4286110270821,43.92823977574511],[12.43535376337039,43.93120657892052],[12.43939940406412,43.93498251113402],[12.43912969468457,43.94064640900461],[12.44479359255516,43.93633105803195],[12.45234545698216,43.93336425395722],[12.45773964457382,43.92797006546618],[12.46151557678732,43.92068791131811],[12.46205499554648,43.91448459468836]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[12.462055,43.914485],[12.460437,43.908012],[12.456121,43.903966],[12.447491,43.903966],[12.443175,43.906393],[12.443175,43.90963],[12.442366,43.913136],[12.42996,43.917182],[12.42025,43.918261],[12.408231,43.91819],[12.408032,43.923416],[12.409119,43.925007],[12.419171,43.925812],[12.428611,43.92824],[12.435354,43.931207],[12.439399,43.934983],[12.43913,43.940646],[12.444794,43.936331],[12.452345,43.933364],[12.45774,43.92797],[12.461516,43.920688],[12.462055,43.914485]]],"type":"Polygon"}
 }

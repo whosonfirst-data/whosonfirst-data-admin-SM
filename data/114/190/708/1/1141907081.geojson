@@ -18,6 +18,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0648\u0631\u0628\u0644"
+    ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0648\u0631\u0628\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Diourbel"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u044b\u0443\u0440\u0431\u0435\u043b\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09bf\u0993\u0989\u09b0\u09ac\u09c7\u09b2"
     ],
@@ -25,6 +37,9 @@
         "\u0414\u0438\u0443\u0440\u0431\u0435\u043b"
     ],
     "name:cat_x_preferred":[
+        "Diourbel"
+    ],
+    "name:ces_x_preferred":[
         "Diourbel"
     ],
     "name:dan_x_preferred":[
@@ -45,10 +60,16 @@
     "name:eus_x_preferred":[
         "Diourbel"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0648\u0631\u0628\u0644"
+    ],
     "name:fra_x_preferred":[
         "Diourbel"
     ],
     "name:frr_x_preferred":[
+        "Diourbel"
+    ],
+    "name:gle_x_preferred":[
         "Diourbel"
     ],
     "name:heb_x_preferred":[
@@ -78,6 +99,9 @@
     "name:nld_x_preferred":[
         "Diourbel"
     ],
+    "name:nob_x_preferred":[
+        "Diourbel"
+    ],
     "name:pol_x_preferred":[
         "Diourbel"
     ],
@@ -93,14 +117,23 @@
     "name:spa_x_preferred":[
         "Diourbel"
     ],
+    "name:swa_x_preferred":[
+        "Diourbel"
+    ],
     "name:swe_x_preferred":[
         "Diourbel"
     ],
     "name:tur_x_preferred":[
         "Diourbel"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u0443\u0440\u0431\u0435\u043b\u044c"
+    ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0648\u0631\u0628\u06cc\u0644"
+    ],
+    "name:vec_x_preferred":[
+        "Diourbel"
     ],
     "name:vie_x_preferred":[
         "Diourbel"
@@ -230,7 +263,7 @@
         }
     ],
     "wof:id":1141907081,
-    "wof:lastmodified":1636494835,
+    "wof:lastmodified":1690865847,
     "wof:name":"Diourbel",
     "wof:parent_id":1108691493,
     "wof:placetype":"locality",
