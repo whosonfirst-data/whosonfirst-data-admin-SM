@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006918,
-    "geom:area_square_m":61596282.471479,
+    "geom:area_square_m":61596204.34689,
     "geom:bbox":"12.403652,43.894294,12.515936,43.991993",
     "geom:latitude":43.938315,
     "geom:longitude":12.463208,
@@ -13,6 +13,9 @@
     "iso:country":"SM",
     "itu:country_code":[
         "378"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "SM"
@@ -1168,7 +1171,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"378",
     "statoids:ds":"RSM",
     "statoids:fifa":"SMR",
@@ -1217,7 +1221,7 @@
     },
     "wof:country":"SM",
     "wof:country_alpha3":"SMR",
-    "wof:geomhash":"931ae4461afb59cda0ba88277b1ea2fd",
+    "wof:geomhash":"5353beb7dc3b738bea818713e5b22955",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1231,12 +1235,12 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1690865843,
+    "wof:lastmodified":1694639499,
     "wof:name":"San Marino",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":31595,
-    "wof:population_rank":7,
+    "wof:population":33860,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-sm",
     "wof:shortcode":"SM",
     "wof:superseded_by":[],
