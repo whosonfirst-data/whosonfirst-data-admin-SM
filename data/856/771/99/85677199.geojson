@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001249,
-    "geom:area_square_m":11123778.723462,
+    "geom:area_square_m":11123649.575687,
     "geom:bbox":"12.43913,43.914485,12.487677,43.968966",
     "geom:latitude":43.940985,
     "geom:longitude":12.460994,
@@ -339,6 +339,7 @@
         "gn:id":3345304,
         "gp:id":20070544,
         "hasc:id":"SM.BM",
+        "iso:code":"SM-06",
         "iso:id":"SM-06",
         "loc:id":"nb2009017380",
         "qs_pg:id":1102989,
@@ -346,11 +347,12 @@
         "wd:id":"Q201368",
         "wk:page":"Borgo Maggiore"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"365634ec8a9ca27bc37d854f588f49ea",
+    "wof:geomhash":"3b5530b1fa156a53a6e9f6b83a11a0db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -365,7 +367,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1690865843,
+    "wof:lastmodified":1695884331,
     "wof:name":"Borgo Maggiore",
     "wof:parent_id":85633763,
     "wof:placetype":"region",
