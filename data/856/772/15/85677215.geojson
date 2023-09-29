@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000825,
-    "geom:area_square_m":7342913.870442,
+    "geom:area_square_m":7342870.312602,
     "geom:bbox":"12.465831,43.933364,12.513034,43.963676",
     "geom:latitude":43.94845,
     "geom:longitude":12.487808,
@@ -324,16 +324,18 @@
         "gn:id":3345305,
         "gp:id":20070547,
         "hasc:id":"SM.DO",
+        "iso:code":"SM-03",
         "iso:id":"SM-03",
         "qs_pg:id":1102990,
         "unlc:id":"SM-03",
         "wd:id":"Q202202"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"982b116fdb6daa7d0bdc429c524c5bbb",
+    "wof:geomhash":"f670100cb6cdd461a178f64f0af5857a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -348,7 +350,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1690865845,
+    "wof:lastmodified":1695884331,
     "wof:name":"Domagnano",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

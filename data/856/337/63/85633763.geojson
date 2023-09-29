@@ -1208,6 +1208,7 @@
         "hasc:id":"SM",
         "icao:code":"T7",
         "ioc:id":"SMR",
+        "iso:code":"SM",
         "itu:id":"SMR",
         "loc:id":"n81117285",
         "m49:code":"674",
@@ -1219,6 +1220,7 @@
         "wd:id":"Q238",
         "wk:page":"San Marino"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SM",
     "wof:country_alpha3":"SMR",
     "wof:geomhash":"5353beb7dc3b738bea818713e5b22955",
@@ -1235,7 +1237,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1694639499,
+    "wof:lastmodified":1695881153,
     "wof:name":"San Marino",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

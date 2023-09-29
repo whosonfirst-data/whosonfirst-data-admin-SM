@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000515,
-    "geom:area_square_m":4585039.319941,
+    "geom:area_square_m":4585025.725919,
     "geom:bbox":"12.478238,43.921713,12.515936,43.949473",
     "geom:latitude":43.934176,
     "geom:longitude":12.499255,
@@ -342,6 +342,7 @@
         "gn:id":3345306,
         "gp:id":20070548,
         "hasc:id":"SM.FA",
+        "iso:code":"SM-04",
         "iso:id":"SM-04",
         "loc:id":"no2013074704",
         "qs_pg:id":1294213,
@@ -349,11 +350,12 @@
         "wd:id":"Q206356",
         "wk:page":"Faetano"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7a454dbcd3ddd5ee50418e11f34b7d6",
+    "wof:geomhash":"a7625543c268afa897016f9fe5435390",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -368,7 +370,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1690865845,
+    "wof:lastmodified":1695884331,
     "wof:name":"Faetano",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

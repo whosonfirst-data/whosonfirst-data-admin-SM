@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000916,
-    "geom:area_square_m":8156167.369857,
+    "geom:area_square_m":8156137.837185,
     "geom:bbox":"12.408032,43.903966,12.462055,43.940646",
     "geom:latitude":43.920963,
     "geom:longitude":12.441519,
@@ -556,15 +556,17 @@
         "gn:id":3345302,
         "gp:id":20070545,
         "hasc:id":"SM.SM",
+        "iso:code":"SM-07",
         "iso:id":"SM-07",
         "qs_pg:id":466351,
         "wd:id":"Q1848"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"114b20b478ed84bcb3e0b77f2674f6ff",
+    "wof:geomhash":"7078be1e969a1a5c934affd7d5e9d1f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -579,7 +581,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1690865844,
+    "wof:lastmodified":1695884331,
     "wof:name":"San Marino",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

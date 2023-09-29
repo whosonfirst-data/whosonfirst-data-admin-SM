@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00097,
-    "geom:area_square_m":8640247.455875,
+    "geom:area_square_m":8640243.835163,
     "geom:bbox":"12.403652,43.925007,12.447491,43.961379",
     "geom:latitude":43.944077,
     "geom:longitude":12.424806,
@@ -330,17 +330,19 @@
         "gn:id":3345303,
         "gp:id":20070543,
         "hasc:id":"SM.AC",
+        "iso:code":"SM-01",
         "iso:id":"SM-01",
         "qs_pg:id":1102988,
         "unlc:id":"SM-01",
         "wd:id":"Q206363",
         "wk:page":"Acquaviva (San Marino)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"34aa1ca2b069cd5f753a255c1b1467ac",
+    "wof:geomhash":"252867b788eb8dd72ee5e3aa86eb0ae6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -355,7 +357,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1690865845,
+    "wof:lastmodified":1695884331,
     "wof:name":"Acquaviva",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

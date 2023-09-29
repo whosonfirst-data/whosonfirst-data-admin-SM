@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001174,
-    "geom:area_square_m":10450245.790268,
+    "geom:area_square_m":10450056.481929,
     "geom:bbox":"12.451903,43.951974,12.515894,43.991993",
     "geom:latitude":43.97167,
     "geom:longitude":12.488534,
@@ -360,16 +360,18 @@
         "gn:id":3166650,
         "gp:id":20070551,
         "hasc:id":"SM.SE",
+        "iso:code":"SM-09",
         "iso:id":"SM-09",
         "qs_pg:id":1094510,
         "unlc:id":"SM-09",
         "wd:id":"Q185412"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d0e543ca1e17088ea59f277d7463bf8d",
+    "wof:geomhash":"6c5e7b65479855fee67d852d5442574c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -384,7 +386,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1690865844,
+    "wof:lastmodified":1695884331,
     "wof:name":"Serravalle",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

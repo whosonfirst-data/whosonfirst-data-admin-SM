@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000567,
-    "geom:area_square_m":5050396.652453,
+    "geom:area_square_m":5050619.760388,
     "geom:bbox":"12.408231,43.894294,12.461042,43.918261",
     "geom:latitude":43.907859,
     "geom:longitude":12.430138,
@@ -341,17 +341,19 @@
         "gn:id":3178807,
         "gp:id":20070546,
         "hasc:id":"SM.CH",
+        "iso:code":"SM-02",
         "iso:id":"SM-02",
         "qs_pg:id":223302,
         "unlc:id":"SM-02",
         "wd:id":"Q206980",
         "wk:page":"Chiesanuova"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"24570279ddda779e11151d94fa46443e",
+    "wof:geomhash":"3faa1f527452c64271cf6dd6cca4289e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -366,7 +368,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1690865845,
+    "wof:lastmodified":1695884331,
     "wof:name":"Chiesanuova",
     "wof:parent_id":85633763,
     "wof:placetype":"region",

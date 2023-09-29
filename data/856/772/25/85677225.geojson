@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
-    "geom:area_square_m":1562275.51302,
+    "geom:area_square_m":1562274.988416,
     "geom:bbox":"12.484171,43.89711,12.497906,43.923655",
     "geom:latitude":43.911313,
     "geom:longitude":12.48941,
@@ -329,6 +329,7 @@
         "gn:id":3345308,
         "gp:id":20070550,
         "hasc:id":"SM.MG",
+        "iso:code":"SM-08",
         "iso:id":"SM-08",
         "loc:id":"n83232696",
         "qs_pg:id":582889,
@@ -336,11 +337,12 @@
         "wd:id":"Q206962",
         "wk:page":"Montegiardino"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"22bb20e79a3ecfe1b3904ac763bc27b2",
+    "wof:geomhash":"2938e8b8485704d7ccba4bad2f46b6b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -355,7 +357,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1690865846,
+    "wof:lastmodified":1695884331,
     "wof:name":"Montegiardino",
     "wof:parent_id":85633763,
     "wof:placetype":"region",
